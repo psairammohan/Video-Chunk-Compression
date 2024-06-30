@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     }
 
     string videoFile = argv[1];
-    string framePositionsFile = "/mnt/data/scene_changes.txt"; // Update the path to your file if necessary
+    string framePositionsFile = "./scene_changes.txt"; // Update the path to your file if necessary
 
     vector<int> framePositions = readFramePositions(framePositionsFile);
     if (framePositions.empty()) {

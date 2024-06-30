@@ -1,0 +1,8 @@
+/home/saisira/Documents/Video-Chunk-Compression/CMakeFiles/Video-Scene-Change.dir
+/home/saisira/Documents/Video-Chunk-Compression/CMakeFiles/Video-Chunking.dir
+/home/saisira/Documents/Video-Chunk-Compression/CMakeFiles/video_quality_metrics.dir
+/home/saisira/Documents/Video-Chunk-Compression/CMakeFiles/video_sizes.dir
+/home/saisira/Documents/Video-Chunk-Compression/CMakeFiles/video_frames.dir
+/home/saisira/Documents/Video-Chunk-Compression/CMakeFiles/compare_video.dir
+/home/saisira/Documents/Video-Chunk-Compression/CMakeFiles/edit_cache.dir
+/home/saisira/Documents/Video-Chunk-Compression/CMakeFiles/rebuild_cache.dir

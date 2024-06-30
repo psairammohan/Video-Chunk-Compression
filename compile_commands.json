@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/saisira/Documents/Video-Chunk-Compression",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -o CMakeFiles/Video-Scene-Change.dir/scene_change.cpp.o -c /home/saisira/Documents/Video-Chunk-Compression/scene_change.cpp",
+  "file": "/home/saisira/Documents/Video-Chunk-Compression/scene_change.cpp",
+  "output": "CMakeFiles/Video-Scene-Change.dir/scene_change.cpp.o"
+},
+{
+  "directory": "/home/saisira/Documents/Video-Chunk-Compression",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -o CMakeFiles/Video-Chunking.dir/video_chunk.cpp.o -c /home/saisira/Documents/Video-Chunk-Compression/video_chunk.cpp",
+  "file": "/home/saisira/Documents/Video-Chunk-Compression/video_chunk.cpp",
+  "output": "CMakeFiles/Video-Chunking.dir/video_chunk.cpp.o"
+},
+{
+  "directory": "/home/saisira/Documents/Video-Chunk-Compression",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -o CMakeFiles/video_quality_metrics.dir/video_metrics.cpp.o -c /home/saisira/Documents/Video-Chunk-Compression/video_metrics.cpp",
+  "file": "/home/saisira/Documents/Video-Chunk-Compression/video_metrics.cpp",
+  "output": "CMakeFiles/video_quality_metrics.dir/video_metrics.cpp.o"
+},
+{
+  "directory": "/home/saisira/Documents/Video-Chunk-Compression",
+  "command": "/usr/bin/c++  -I/usr/local/include/opencv4  -o CMakeFiles/video_sizes.dir/video_sizes.cpp.o -c /home/saisira/Documents/Video-Chunk-Compression/video_sizes.cpp",
+  "file": "/home/saisira/Documents/Video-Chunk-Compression/video_sizes.cpp",
+  "output": "CMakeFiles/video_sizes.dir/video_sizes.cpp.o"
+},
+{
+  "directory": "/home/saisira/Documents/Video-Chunk-Compression",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -o CMakeFiles/video_frames.dir/video_frames.cpp.o -c /home/saisira/Documents/Video-Chunk-Compression/video_frames.cpp",
+  "file": "/home/saisira/Documents/Video-Chunk-Compression/video_frames.cpp",
+  "output": "CMakeFiles/video_frames.dir/video_frames.cpp.o"
+},
+{
+  "directory": "/home/saisira/Documents/Video-Chunk-Compression",
+  "command": "/usr/bin/c++  -isystem /usr/local/include/opencv4  -o CMakeFiles/compare_video.dir/compare_video.cpp.o -c /home/saisira/Documents/Video-Chunk-Compression/compare_video.cpp",
+  "file": "/home/saisira/Documents/Video-Chunk-Compression/compare_video.cpp",
+  "output": "CMakeFiles/compare_video.dir/compare_video.cpp.o"
+}
+]

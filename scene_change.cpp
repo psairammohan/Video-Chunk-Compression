@@ -1,5 +1,6 @@
 #include <opencv2/opencv.hpp>
 #include <iostream>
+#include <opencv2/videoio.hpp>
 #include <vector>
 #include <fstream>
 
@@ -44,9 +45,11 @@ int main(int argc, char** argv) {
 
     Mat prevFrame, currFrame;
     vector<int> sceneChanges;
-    double threshold = 0.5;  // Adjust the threshold based on your needs
+    double threshold = 0.3;  // Adjust the threshold based on your needs
     int framePos = 0;
 
+    sceneChanges.push_back(0);
+    
     while (true) {
         if (!cap.read(currFrame)) {
             break;
@@ -62,6 +65,9 @@ int main(int argc, char** argv) {
         currFrame.copyTo(prevFrame);
         framePos++;
     }
+
+    int total_frames = cap.get(CAP_PROP_FRAME_COUNT);
+    sceneChanges.push_back(total_frames);
 
     cap.release();
 
